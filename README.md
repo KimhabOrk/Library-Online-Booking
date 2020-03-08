@@ -27,3 +27,4 @@ Node.JS, MongoDB.
 - In terminal, run `mongod` to start mongo.
 - In GUI, create a new db connnection, default port is 27017 or access mongodb in terminal, open another window, run `mongo`. 
 - Run `node index` under project folder, go to your browser, http://localhost:port/.
+- Don't forget to star the repo.
